@@ -1,4 +1,13 @@
-## Hi there 👋
+# Hi there, I'm Shan! 👋
+
+I'm a Computer Scientist currently working at **HSBC**.  
+My current area of focus is **Agentic AI** 🤖
+
+## Connect with me 🌐
+
+- 💼 LinkedIn: [linkedin.com/in/shan-alam/](https://www.linkedin.com/in/shan-alam/)
+- 🧑‍💻 Website: [shanalam.com](https://shanalam.com)
+
 
 <!--
 **ShanAlam/ShanAlam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
