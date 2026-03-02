@@ -1,4 +1,4 @@
-# Ahoy! I'm Shan 👋
+# Hey folks! I'm Shan 👋
 
 I'm a Computer Scientist currently working at **HSBC**.  
 My current area of focus is **Agentic AI** 🤖
